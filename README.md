@@ -16,7 +16,6 @@ METHODOLOGY
 
   - Price elasticity of demand (PED) measure use to show the responsiveness of the quantity demanded of a good or services to changes in price when nothing else is change i.e relationship between demand and price. i.e the effective desire for something changes as price changes. It gives the % change in quantity for 1 % increase in price
     Mathematically The formula for the price elasticity (ǫ)
-    <img src="https://latex.codecogs.com/svg.latex?\Large&space;e = \frac{\%\Delta Q}{\%\Delta P}" title="\Large e = \frac{\%\Delta Q}{\%\Delta P}" />
 
         $$
          \begin{align}
