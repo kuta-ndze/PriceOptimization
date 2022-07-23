@@ -2,7 +2,7 @@
 
 AIM
 
-- Provided with Restaurant Cafe data , we are able to leverage price elasticity with historical Cafe sales data to measure customers' responsiveness towards quantity demanded or supply due to price changes and find the optimal price to set for their items for maximum profit i.e striking a balance in less price or high price for optimal profit.
+- Provided with Restaurant Cafe data , we are able to leverage price elasticity with historical Cafe sales data to measure customers' responsiveness towards quantity demanded or supply due to price changes and find the optimal price to set for their items for maximum profit i.e striking a balance in low or high price for optimal profit.
 
 METHODOLOGY
 
