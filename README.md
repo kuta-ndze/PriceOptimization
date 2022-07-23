@@ -1,1 +1,1 @@
-<h2 align="center"> Price Optimization </h2>
+<h2 align="center"> <b>Price Optimization</b> </h2>
