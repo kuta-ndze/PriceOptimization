@@ -12,4 +12,10 @@ METHODOLOGY
   - Check for missing values.
   - Uncovering multiple facets of merge data.
 
-- ## <b> Modelling </b>
+- <b> Modelling </b>
+
+  - Price elasticity of demand (PED) measure use to show the responsiveness of the quantity demanded of a good or services to changes in price when nothing else is change i.e relationship between demand and price. i.e the effective desire for something changes as price changes. It gives the % change in quantity for 1 % increase in price
+    Mathematically
+    $$ e = \frac{\Delta Q}{\Delta P}$$
+
+  - We will look at sales of Cafe that sales burgers, the Cafe owner wants to know the optimal price to set for their item in order to gain maximum profit. Note. If the prices are high, the sales will reduce and if the prices are low the sales will increase and hence total profit will decrease. So the task here is to get a sweet spot that will give us the maximum profit. So we are trying to find a linear relationship between quantity and price hence use a linear regression in this case
