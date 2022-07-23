@@ -19,7 +19,9 @@ METHODOLOGY
 
     $$
     \begin{align}
+
     e = \frac{\% \Delta Q}{\% \Delta P}
+
     \end{align}
     $$
 
