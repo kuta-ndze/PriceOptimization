@@ -18,12 +18,9 @@ METHODOLOGY
     Mathematically The formula for the price elasticity (ǫ)
 
     $$
-
     \begin{align}
     e = \frac{\% \Delta Q}{\% \Delta P}
     \end{align}
-
-
     $$
 
   - We will look at sales of Cafe that sales burgers, the Cafe owner wants to know the optimal price to set for their item in order to gain maximum profit. Note. If the prices are high, the sales will reduce and if the prices are low the sales will increase and hence total profit will decrease. So the task here is to get a sweet spot that will give us the maximum profit. So we are trying to find a linear relationship between quantity and price hence use a linear regression in this case
